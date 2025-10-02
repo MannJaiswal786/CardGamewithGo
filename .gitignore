@@ -1,0 +1,4 @@
+# Ignore Go build files
+*.exe
+*.out
+*.log
